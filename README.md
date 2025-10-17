@@ -172,5 +172,5 @@ You'll need Sepolia ETH to post messages and deploy a smart contract (optional).
 
 Claude AI chatbot assisted me during the development. I used it to update the design of the front-end app according to my view of the app design. 
 I also used it to assess if I found all the unit test cases, and it helped me to come up with a couple more tests, such as testing multiple users' ability to post messages, gas usage test and edge cases tests (rejecting empty messages and rejecting messages longer than 280 characters). 
-Besides, it helped me in code review to find any possible flaws, and I used it to come up with extra small features, such as adding a button to show your messages only and adding a title that a certain message was added from your address if you logged in to the application.  
+Besides, it helped me in code review to find any possible flaws, and I used it to come up with extra small features, such as adding a button to show your messages only and adding a title that a certain message was added from your address if you logged in to the application. Also, it helped me to come up with the idea to add message sorting by time posted and author address.  
 
