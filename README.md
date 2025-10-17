@@ -1,5 +1,10 @@
 # On-Chain Message Board Application
 
+### Setup
+
+- Smart contract is located in `message board dapp/contracts/messageBoardContract.sol` folder
+- Front-end is located in `message-board-front-end` folder
+
 ### Prerequisites
 
 - Node.js (v22 or higher)
