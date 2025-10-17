@@ -90,7 +90,7 @@ This will:
 - Save contract address and ABI to the frontend
 - Display deployment details
 
-## Frontend Setup
+## Front-end Setup
 
 ### Starting the Development Server
 
